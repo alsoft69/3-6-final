@@ -14,6 +14,6 @@ def test_find_button_basket(browser):
     Поиск кнопки "Добавить в корзину"
     """
     browser.get(link)
-    time.sleep(10)
+    time.sleep(30)
     button = browser.find_elements(By.CSS_SELECTOR, ".btn-add-to-basket")
     assert len(button) > 0, 'Кнопка не найдена!'
