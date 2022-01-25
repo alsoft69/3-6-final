@@ -1,0 +1,142 @@
+1643083870216	geckodriver	INFO	Listening on 127.0.0.1:61486
+1643083873320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61487" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileiBHjcT"
+1643083873972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileiBHjcT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61487/devtools/browser/342311d2-b4d3-459d-9b27-e07e2211d133
+1643083877307	Marionette	INFO	Listening on port 61492
+1643083877565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643083887518	Marionette	INFO	Stopped listening on port 61492
+1643083905681	geckodriver	INFO	Listening on 127.0.0.1:61535
+1643083908801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61536" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilesaDjM6"
+1643083909328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilesaDjM6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61536/devtools/browser/78a00192-132c-4f58-8c12-a3c00f58c2de
+1643083912796	Marionette	INFO	Listening on port 61544
+1643083913011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643083922484	Marionette	INFO	Stopped listening on port 61544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643083932585	geckodriver	INFO	Listening on 127.0.0.1:61576
+1643083935687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61577" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileW8yyoi"
+1643083936319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileW8yyoi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61577/devtools/browser/c2f3ee7a-2d89-4848-b28a-043011ff9f2f
+1643083939659	Marionette	INFO	Listening on port 61582
+1643083939900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643083948136	Marionette	INFO	Stopped listening on port 61582
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1643084045021	geckodriver	INFO	Listening on 127.0.0.1:61615
+1643084048145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61616" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileJ6CJr1"
+1643084048700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileJ6CJr1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61616/devtools/browser/615a0b68-69cf-4f54-b56a-2c5a8c2fcf98
+1643084052002	Marionette	INFO	Listening on port 61621
+1643084052360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643084060690	Marionette	INFO	Stopped listening on port 61621
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1643084503835	geckodriver	INFO	Listening on 127.0.0.1:61817
+1643084506948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61818" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileqbhkzj"
+1643084507515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileqbhkzj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61818/devtools/browser/5afc29ec-1cf1-48ec-938a-7aec5076283e
+1643084511011	Marionette	INFO	Listening on port 61823
+1643084511149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643084555743	Marionette	INFO	Stopped listening on port 61823
+1643085545665	geckodriver	INFO	Listening on 127.0.0.1:62041
+1643085548762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62042" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileGlGMRa"
+1643085549313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofileGlGMRa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62042/devtools/browser/aa1ed62b-c017-4eee-8c47-ba071b670229
+1643085552597	Marionette	INFO	Listening on port 62047
+1643085552979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643085577602	Marionette	INFO	Stopped listening on port 62047
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/customhighlighter42, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643085600567	geckodriver	INFO	Listening on 127.0.0.1:62086
+1643085603684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62087" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile14MmYO"
+1643085604297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile14MmYO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62087/devtools/browser/9da6d94d-24af-493b-9ea2-0b422d2a1dd1
+1643085607405	Marionette	INFO	Listening on port 62092
+1643085607913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643085631230	Marionette	INFO	Stopped listening on port 62092
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643086816155	geckodriver	INFO	Listening on 127.0.0.1:62464
+1643086819249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62465" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilegAHVqy"
+1643086819836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilegAHVqy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62465/devtools/browser/7f2c3c4f-8b85-4680-944c-b22041e44973
+1643086823244	Marionette	INFO	Listening on port 62470
+1643086823453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643086844710	Marionette	INFO	Stopped listening on port 62470
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/customhighlighter62, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643087446403	geckodriver	INFO	Listening on 127.0.0.1:62664
+1643087449503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62665" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile4idn2W"
+1643087450113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile4idn2W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62665/devtools/browser/264d5d44-0b06-482c-8201-a6c030c545ef
+1643087453592	Marionette	INFO	Listening on port 62670
+1643087453698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643087478790	Marionette	INFO	Stopped listening on port 62670
+1643087509287	geckodriver	INFO	Listening on 127.0.0.1:62704
+1643087512388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62705" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile6oe5qT"
+1643087512932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile6oe5qT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62705/devtools/browser/de6d7ab8-db26-4bb9-a1ff-43e7aaef9b61
+1643087516501	Marionette	INFO	Listening on port 62710
+1643087516572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643087542727	Marionette	INFO	Stopped listening on port 62710
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+1643088039046	geckodriver	INFO	Listening on 127.0.0.1:62829
+1643088042129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62830" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile8Ks8PH"
+1643088042663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofile8Ks8PH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62830/devtools/browser/7462ceeb-27c4-4ff2-a915-c34ed12bc92e
+1643088045928	Marionette	INFO	Listening on port 62835
+1643088046360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643088067158	Marionette	INFO	Stopped listening on port 62835
+1643088174320	geckodriver	INFO	Listening on 127.0.0.1:62964
+1643088177406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62965" "-no-remote" "-profile" "C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilequB20L"
+1643088177973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alexe\\AppData\\Local\\Temp\\rust_mozprofilequB20L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62965/devtools/browser/97246b72-684a-48ff-a031-4e5c64e33e8d
+1643088181109	Marionette	INFO	Listening on port 62970
+1643088181597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1643088197650	Marionette	INFO	Stopped listening on port 62970
